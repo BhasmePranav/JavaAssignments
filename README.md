@@ -1,2 +1,2 @@
 # JavaAssignments
-Assignments completed from next platform
+Assignments completed from Capgemini next platform
